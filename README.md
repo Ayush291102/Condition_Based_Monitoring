@@ -14,5 +14,7 @@ ensuring optimal military readiness
 
 ![image](https://github.com/user-attachments/assets/20b8af40-81a0-495b-9cbb-1f1997c40aad)
 
-The classification model is deployed on a web server of streamlit, where after proper filling of column’s datapoints, the app will predict in which band the Tank comes & whether it needs immediate servicing or not.
+The classification model is deployed on a web server of streamlit, where after proper filling of column’s datapoints, 
+the app will predict in which band the Tank comes & whether it needs immediate servicing or not.
+
  <img src = "Screenshot 2024-07-31 100949.png">
