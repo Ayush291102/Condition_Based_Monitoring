@@ -11,8 +11,8 @@ project is to implemented a comprehensive Al-based classification system for T-7
 accurately predicting maintenance needs and extending operational life by 15%, thereby
 ensuring optimal military readiness
 
-# Model Deployment in Streamlit
+
 ![image](https://github.com/user-attachments/assets/20b8af40-81a0-495b-9cbb-1f1997c40aad)
 
 The classification model is deployed on a web server of streamlit, where after proper filling of column’s datapoints, the app will predict in which band the Tank comes & whether it needs immediate servicing or not.
-![image](https://github.com/user-attachments/assets/da025900-8eeb-4754-8a09-a83cf92ff250)
+ <img src = "Screenshot 2024-07-31 100949.png">
